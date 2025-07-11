@@ -45,4 +45,4 @@ It sets up the `MAVEN_HOME` environment variable and updates your system `PATH` 
 ## ✅ VirusTotal Scan
 
 This batch script is 100% open source and safe.
-You can verify the VirusTotal scan here: [View Scan Result](https://www.virustotal.com/gui/file/5aafdbbddcaa2d71166d6f8262d1cb2422e17933d6d773db98db8972936c1bff)
+You can verify the VirusTotal scan yourself.
