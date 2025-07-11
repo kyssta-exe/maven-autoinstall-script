@@ -17,9 +17,9 @@ It sets up the `MAVEN_HOME` environment variable and updates your system `PATH` 
 
 ## ⚙️ How to use
 
-1. **Download or copy the `setup_maven.bat` file**
+1. **Download or copy the `install.bat` file**
 
-   Save the script as `setup_maven.bat`.
+   Save the script as `install.bat`.
 
 2. **Run as Administrator**
 
